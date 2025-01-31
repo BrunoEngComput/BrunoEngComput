@@ -8,6 +8,8 @@ Meu primeiro contato com código foi no segundo semestre de Engenharia Civil, qu
 
 Estou animado para aprender e compartilhar minha evolução por aqui!  :yum:
 
+[Meu Linkedin :smile:](https://www.linkedin.com/in/bruno-de-marco-589bb3269/)
+
 
 <!--
 **BrunoEngComput/BrunoEngComput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
