@@ -1,6 +1,6 @@
-## print("Hello, World!") 
-# Hi there 👋, <br> Meu nome é Bruno Carmine. Seja Bem-Vindo!! :yum::stuck_out_tongue_winking_eye:
 
+# Hi there 👋, <br> Meu nome é Bruno Carmine. Seja Bem-Vindo!! :yum::stuck_out_tongue_winking_eye:
+## print("Hello, World!") 
 ## Um pouco sobre mim, 
 Olá! :call_me_hand::wave: Sou estudante de Engenharia Civil (3º ano) e Engenharia de Computação (1º ano). Estou dando meus primeiros passos no mundo da programação!
 
