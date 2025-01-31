@@ -1,5 +1,7 @@
-#Bruno Carmine De Marco Rodrigues 
-## Hi there 👋
+# print("Hello, World!") 
+## Hi there 👋, <br> meu nome é Bruno Carmine. Seja Bem-Vindo!! :yum::stuck_out_tongue_winking_eye:
+
+
 
 <!--
 **BrunoEngComput/BrunoEngComput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
