@@ -11,4 +11,4 @@ Estou animado para aprender e compartilhar minha evolução por aqui!  :yum:
 [Meu Linkedin :smile:](https://www.linkedin.com/in/bruno-de-marco-589bb3269/)
 
 Ainda estou aprendendo e aprimorando minhas habilidades, mas em breve trarei novidades! Assim que finalizar meus cursos de backend, frontend e, quem sabe, POO, estarei pronto para desenvolver projetos com mais confiança. Fique de olho!:monocle_face:	:sunglasses:
-### até breve ...:wave::vulcan_salute:
+### até breve ... 👋🖖
